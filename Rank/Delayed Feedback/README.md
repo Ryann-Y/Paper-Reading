@@ -1,0 +1,8 @@
+## Delayed Feedback
+
+| Title                                                                                                                                                                                                                                              | Year | Publisher | Author  | Tags | Alias  | Score | IsRead | Notes | Remarks |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----:|:---------:|:-------:|:---- |:------:|:-----:|:------:| :-----: | ------------ |
+| [Capturing Delayed Feedback in Conversion Rate Prediction via Elapsed-Time Sampling]([2021][Alibaba][ES-DFM]%20Capturing%20Delayed%20Feedback%20in%20Conversion%20Rate%20Prediction%20via%20Elapsed-Time%20Sampling.pdf)                           | 2021 |   AAAI    | Alibaba | #DFM |        |       |   N    |       |              |
+| [Real Negatives Matter: Continuous Training with Real Negatives for Delayed Feedback Modeling]([2021][Alibaba][DEFER]%20Real%20Negatives%20Matter%20-%20Continuous%20Training%20with%20Real%20Negatives%20for%20Delayed%20Feedback%20Modeling.pdf) | 2021 |    KDD    | Alibaba | #DFM | #DEFER |       |   N    |       |              |
+| [Asymptotically Unbiased Estimation for Delayed Feedback Modeling via Label Correction]([2022][Alibaba][DEFUSE]%20Asymptotically%20Unbiased%20Estimation%20for%20Delayed%20Feedback%20Modeling%20via%20Label%20Correction.pdf)                     | 2022 |    WWW    | Alibaba | #DFM |        |       |   N    |       |              |
+
