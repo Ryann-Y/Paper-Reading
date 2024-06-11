@@ -14,3 +14,4 @@
 | [Causal Effect Estimation: Recent Advances, Challenges, and Opportunities]([2023]%20Causal%20Effect%20Estimation-%20Recent%20Advances,%20Challenges,%20and%20Opportunities.pdf)                                                               | 2023 |           |         | #Causal |                 |          |   N    |       |             |
 | [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect Estimation]([2023]%20DESCN-%20Deep%20Entire%20Space%20Cross%20Networks%20for%20Individual%20Treatment%20Effect%20Estimation.pdf)                                     | 2023 |           | Alibaba | #Causal |     #DESCN      |          |   N    |       |             |
 
+https://blog.csdn.net/qq_42898299/article/details/126863704

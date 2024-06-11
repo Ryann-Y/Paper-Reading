@@ -1,0 +1,5 @@
+
+| Title                                                                                                                                                                                                | Year | Publisher | Author | Tags | Alias | Score | IsRead | Notes | Remarks |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--: | :-------: | :----: | :--: | :---: | :---: | :----: | :---: | ------- |
+| [Quick Training of Probabilistic Neural Nets by Importance Sampling]([2003][IS]%20Quick%20Training%20of%20Probabilistic%20Neural%20Nets%20by%20Importance%20Sampling.pdf)                            | 2003 |   PMLR    |        |      |  #IS  |       |   N    |       |         |
+| [A fast and simple algorithm for training neural probabilistic language models]([2012][NCE]%20A%20fast%20and%20simple%20algorithm%20for%20training%20neural%20probabilistic%20language%20models.pdf) | 2012 |   ICML    |        |      | #NCE  |       |   N    |       |         |

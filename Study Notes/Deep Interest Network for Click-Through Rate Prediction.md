@@ -1,6 +1,9 @@
 **论文地址**：[https://arxiv.org/pdf/1706.06978](https://arxiv.org/pdf/1706.06978)
-**代码地址**：[https://github.com/zhougr1993/DeepInterestNetwork](https://github.com/zhougr1993/DeepInterestNetwork)
-**参考**：[https://zhuanlan.zhihu.com/p/408502932](https://zhuanlan.zhihu.com/p/408502932)
+**源码地址**：[https://github.com/zhougr1993/DeepInterestNetwork](https://github.com/zhougr1993/DeepInterestNetwork)
+
+**参考**：
+- https://zhuanlan.zhihu.com/p/51623339
+- https://zhuanlan.zhihu.com/p/408502932
 
 **问题背景**：
 1. 在CTR预估任务重，传统的 MLP 模型架构中有限维度的用户表征向量对于表达用户复杂的兴趣来说是极大的瓶颈；
